@@ -11,8 +11,6 @@ Everything is made with the mouse.
 - Use the mouse wheel to zoom in/out.
 - Keep the right button pressed and move it around the area to change the hypercube's position.
 
-'play' with the hypercube by keeping pressed the left or right buttons from your mouse. Also you can use the mouse wheel to zoom in/out.
-
 <p align="center"> 
 <img src="https://images.unsplash.com/photo-1533542218422-2d52ce04ac64?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8Y3ViZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
 </p>
